@@ -1,0 +1,13 @@
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\bin\Debug\hackuconn19.exe.config
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\bin\Debug\hackuconn19.exe
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\bin\Debug\hackuconn19.pdb
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\bin\Debug\hackuconn19.xml
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\obj\Debug\hackuconn19.vbprojAssemblyReference.cache
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\obj\Debug\hackuconn19.Form1.resources
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\obj\Debug\hackuconn19.Resources.resources
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\obj\Debug\hackuconn19.vbproj.GenerateResource.cache
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\obj\Debug\hackuconn19.vbproj.CoreCompileInputs.cache
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\obj\Debug\hackuconn19.exe
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\obj\Debug\hackuconn19.xml
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\obj\Debug\hackuconn19.pdb
+C:\Users\ejwei\Desktop\work\Visual Studio\hackuconn19\obj\Debug\hackuconn19.UserUI.resources
